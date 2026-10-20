@@ -1,0 +1,11 @@
+{
+	"geode": "v1.8.0",
+	"gd": {
+		"android": "2.2.144"
+	},
+	"version": "v1.0.0",
+	"id": "ai.predictivebuffer",
+	"name": "Predictive Input Buffer",
+	"developer": "lilWC",
+	"description": "Predictive input buffer with an in-level touch preset button for Android Geometry Dash."
+}
